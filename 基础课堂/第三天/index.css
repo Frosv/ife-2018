@@ -1,0 +1,29 @@
+/* 样式不属于编程范围 所以这东西不会有报错 只能靠你自己多玩玩  */
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+  color: red;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+p {
+  text-indent: 2em;
+}
+
+.text-decoration{
+  text-decoration: overline;
+}
+
+.text-shadow{
+  /* 此属性为css3属性 有兼容问题 请在实际使用的时候查阅好如何加入兼容 */
+  text-shadow: 5px 5px 5px orange;
+}
+
+.line-height {
+  line-height: 60px;
+  color: palegreen;
+}
